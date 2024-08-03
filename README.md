@@ -1,5 +1,7 @@
 # Mira-Chatbot
 
+![Screenshot 2023-08-03 123741](https://github.com/jimschacko/Mira-Chatbot/assets/47191550/cb2c19c6-35c3-491b-b17a-d4b4dc54bed4)
+
 ## Introduction
 
 The demand for efficient and convenient food ordering systems is growing in today's fast-paced world. People want to order their favorite meals quickly, track their orders in real-time, and complete the payment seamlessly. Chatbots are revolutionizing how we interact with technology, and this project explores developing a food ordering, tracking, and billing chatbot using Dialogflow, Google's powerful natural language processing platform.
